@@ -1,0 +1,20 @@
+D:\C# Practises\Ending Balance Application\Ending Balance Application\bin\Debug\Ending Balance Application.exe.config
+D:\C# Practises\Ending Balance Application\Ending Balance Application\bin\Debug\Ending Balance Application.exe
+D:\C# Practises\Ending Balance Application\Ending Balance Application\bin\Debug\Ending Balance Application.pdb
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.csproj.AssemblyReference.cache
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending_Balance_Application.Form1.resources
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending_Balance_Application.Properties.Resources.resources
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.csproj.GenerateResource.cache
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.csproj.CoreCompileInputs.cache
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.exe
+D:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.pdb
+E:\C# Practises\Ending Balance Application\Ending Balance Application\bin\Debug\Ending Balance Application.exe.config
+E:\C# Practises\Ending Balance Application\Ending Balance Application\bin\Debug\Ending Balance Application.exe
+E:\C# Practises\Ending Balance Application\Ending Balance Application\bin\Debug\Ending Balance Application.pdb
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.csproj.AssemblyReference.cache
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending_Balance_Application.Form1.resources
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending_Balance_Application.Properties.Resources.resources
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.csproj.GenerateResource.cache
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.csproj.CoreCompileInputs.cache
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.exe
+E:\C# Practises\Ending Balance Application\Ending Balance Application\obj\Debug\Ending Balance Application.pdb
